@@ -1,4 +1,4 @@
-
+ultimate Wolfram Mathematica for macOS Extension | macro-recording + pivot-tables offers the most advanced Wolfram Mathematica for macOS extension, with macro-recording and
 
 
 
